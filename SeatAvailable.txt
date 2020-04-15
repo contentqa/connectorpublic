@@ -1,0 +1,4 @@
+Bangalore	Chennai	45
+Bangalore	Mumbai	60
+Bangalore	Cochin	50
+Bangalore	Newdelhi	50
