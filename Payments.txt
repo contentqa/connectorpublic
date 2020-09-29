@@ -2,4 +2,3 @@ Bangalore Chennai 1000
 Bangalore Mumbai 1500
 Bangalore Cochin 800
 Bangalore Newdelhi 3000
-'testing' 
