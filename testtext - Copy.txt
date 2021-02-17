@@ -1,5 +1,7 @@
 As of July 1, 2011 the SSNs below could not have been issued by the Social Security Administration and are therefore "fake."  
 So you can view this file in Identity Finder we are placing one real SSN below.  The purpose of this file is to show how Identity 
+Finder eliminates false positives even when they look absolutely real.As of July 1, 2011 the SSNs below could not have been issued by the Social Security Administration and are therefore "fake."  
+So you can view this file in Identity Finder we are placing one real SSN below.  The purpose of this file is to show how Identity 
 Finder eliminates false positives even when they look absolutely real.
 
 Real: 535-43-4626
